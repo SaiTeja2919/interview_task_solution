@@ -1,7 +1,8 @@
 # interview_task_solution
-This programs is to compare two images for the similarity. 
+## Comaparing image similarities
+This programs image_comparision.py is to compare two images for the similarity. 
 imaging_interview.py containts the functions preprocess_image_change_detection and compare_frames_change_detection functions
-that helps us to compare two images
+that helps us to compare two images.
 command to run the program
 ## To Run
 ```bash
